@@ -1,0 +1,19 @@
+{
+  "name": "march-plan",
+  "version": "1.0.0",
+  "description": "2020年8月份，从上海离职，回到深圳这边上班。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tianleyy/March-Plan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tianleyy/March-Plan/issues"
+  },
+  "homepage": "https://github.com/Tianleyy/March-Plan#readme"
+}
